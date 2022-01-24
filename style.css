@@ -72,7 +72,7 @@
 			line-height: 1.5em;
 		}
 
-		p {
+		p, dl, dd {
 			color: #555;
 		}
 
